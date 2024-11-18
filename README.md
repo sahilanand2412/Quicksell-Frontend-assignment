@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Quicksell-Frontend-assignment
 
 ## 📌About Project
@@ -28,3 +29,6 @@ Develop a React-based Kanban-board app that interfaces with the provided API by 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
+=======
+# Quicksell-Frontend-assignment
+>>>>>>> 945e03e5a049d6a76cc48d30314de4aae051308a
