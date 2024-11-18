@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Quicksell-Frontend-assignment
 
 ## 📌About Project
@@ -32,3 +33,18 @@ Develop a React-based Kanban-board app that interfaces with the provided API by 
 =======
 # Quicksell-Frontend-assignment
 >>>>>>> 945e03e5a049d6a76cc48d30314de4aae051308a
+=======
+# Quicksell Frontend Assignment
+
+This repository contains the frontend code for the Quicksell assignment project.
+
+## Features
+- React-based components
+- Redux for state management
+- Responsive design
+
+## Setup
+1. Clone the repository.
+2. Run `npm install` to install dependencies.
+3. Use `npm start` to launch the project.
+>>>>>>> 392c55b6b29389bf1e60dc30306299d882812955
